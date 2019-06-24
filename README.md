@@ -5,4 +5,9 @@ An acloud.guru demo that uses python and NASA data
 
 This project requires Python3 and the requests package
 
-'python3 find-meteors.py'
+First, install pipenv.  Then:
+
+'''
+pipenv install
+pipenv run python find-meteors.py
+'''
